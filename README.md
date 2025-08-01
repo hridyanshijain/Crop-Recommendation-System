@@ -30,8 +30,5 @@ This project is a **Crop Recommendation System** built with **Flask**, **Scikit-
 
 ### 📊 Visualization
 - **Power BI** – Interactive dashboard with real-time prediction logs
-
----
-
-## 🛠️ Project Structure
+visualization is in progress...
 
